@@ -1,0 +1,194 @@
+body{
+  background: white;
+  font-family: 'Hind Siliguri', 'sans-serif';
+}
+
+ul, li, p, h1, h2, h3, body, html{
+  padding: 0;
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  align-items: center;
+}
+
+header{
+  display: flex;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ccc;
+  box-shadow: -5px 5px 10px -10px #2d3748; 
+}
+
+header .kiri{
+  display: flex;
+  list-style: none;
+  align-items: center;
+  margin-left: auto;
+}
+
+header .tengah{
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+header .kanan{
+  display: flex;
+  list-style: none;
+  align-items: center;
+  margin-right : auto;
+}
+
+header a{
+  padding: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.bungkus {
+  padding: 0px 60px;
+  margin: 60px auto;
+  display: flex;
+}
+
+.pp-pict {
+  border-radius: 70%;
+  width: 70%;
+  object-fit: cover;
+}
+
+.myself {
+  width: 80%;
+  float: right;
+  text-align: left;
+  line-height: 1.7;
+  padding: 0px 60px;
+  margin-right: auto;
+}
+
+.kontak{
+  padding: 20px 0;
+  max-width: 1440px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  box-shadow: -5px 5px 10px -10px #2d3748; 
+  background: #87CEFA;
+}
+
+.contact{
+  display: flex;
+  list-style: none;
+  margin: auto;
+  max-width: 1440px;
+  text-align: center;
+  margin: 30px 0 0;
+  display: flex;
+  width: 50%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.contact li{margin: 120 120px;}
+
+.contant-home{
+  max-width: 1440px;
+  text-align: center;
+  padding: 20px 0;
+  max-width: 1440px;
+  border-bottom: 1px solid #ccc;
+  background: #87CEFA;
+}
+
+body{
+  background: white;
+  font-family: 'Hind Siliguri', 'sans-serif';
+}
+
+ul, li, p, h1, h2, h3, body, html{
+  padding: 0;
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  align-items: center;
+}
+
+.sejarah{
+  max-width: 1440px;
+text-align: center; 
+}
+
+.singkat{
+  max-width: 1440px;
+text-align: center;
+}
+
+.kepsek{
+  max-width: 1440px;
+text-align: center;
+}
+
+.tabel{
+  background: white;
+  max-width: 1440px;
+text-align: center;
+}
+
+.profile{
+  display: flex;
+  background-color: #02bdd5;
+}
+
+.profile li{margin: 50 150px;}
+
+.kontak{
+padding: 20px 0;
+max-width: 1440px;
+text-align: center;
+border-bottom: 1px solid #ccc;
+box-shadow: -5px 5px 10px -10px #2d3748; 
+}
+
+.contact{
+display: flex;
+list-style: none;
+margin: auto;
+max-width: 1440px;
+text-align: center;
+margin: 30px 0 0;
+display: flex;
+width: 50%;
+width: 100%;
+object-fit: cover;
+}
+
+.contact li{margin: 120 120px;}
+
+.color2{
+background: #00FFFF;
+}
+
+.bungkus {
+padding: 0px 60px;
+margin: 60px auto;
+display: flex;
+}
+
+.pp-pict {
+border-radius: 70%;
+width: 70%;
+object-fit: cover;
+}
+
+.myself {
+width: 80%;
+float: right;
+text-align: left;
+line-height: 1.7;
+padding: 0px 60px;
+margin-right: auto;
+}
